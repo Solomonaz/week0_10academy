@@ -2,8 +2,8 @@ Analyze solar radiation data to derive actionable insights for MoonLight Energy 
 
 # Deployment Steps
 ## Clone the Repository
-- git clone https://github.com/Solomonaz/week0_10academy.git
-- cd week0_10academy
+```bash git clone https://github.com/Solomonaz/week0_10academy.git ```
+```bash cd week0_10academy ```
 - Create and Activate a Virtual Environment (optional but recommended)
 
 ## bash
